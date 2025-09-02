@@ -1,3 +1,3 @@
-<center>
+<div align="center">
 👁️👄👁️
-</center>
+</div>
